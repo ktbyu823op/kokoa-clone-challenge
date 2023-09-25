@@ -6,10 +6,11 @@
     font-size: 18px;
     margin-top: -15px;
     margin-bottom: 15px;
+    background-color: var(--dark-gray);
 }
 
 #friends-display-link i {
-    color: rgba(0,0,0,0.3);
+    color: var(--mint);
 }
 
 .friends-screen {
@@ -38,7 +39,7 @@
 }
 
 #splash-screen {
-    background-color: var(--yellow);
+    background-color: var(--mint);
     width: 100vw;
     height: 100vh;
     position: absolute;
@@ -49,4 +50,5 @@
     font-size: 132px;
     animation: hideSplashScreen 0.4s ease-in-out forwards;
     animation-delay: 1s;
+    color: var(--gray);
 }

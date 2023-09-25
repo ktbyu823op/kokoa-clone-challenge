@@ -1,7 +1,8 @@
 :root {
     --mint: #1EEBCA;
+    --dark-mint: rgba(30,235,202,0.2);
     --gray: #565656;
-    --yellow: #fae100;
+    --dark-gray: #404040;
     --horizontal-space: 25px;
     --main-border: 1px solid rgba(30,235,202,0.2);
     --font-gray: rgba(0,0,0,0.5);

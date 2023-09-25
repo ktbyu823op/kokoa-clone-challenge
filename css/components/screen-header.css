@@ -10,11 +10,13 @@
 .screen-header__title{
     font-size: 28px;
     font-weight: 600;
+    color: var(--mint);
 }
 
 .screen-header__icons span {
     margin-left: 32px;
     position: relative;
+    color: var(--mint);
 }
 
 .screen-header__dot {

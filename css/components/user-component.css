@@ -50,6 +50,6 @@
     align-items: flex-end;
 }
 .user-component__phone-number>span {
-    color: tomato;
+    color: #DA000B;
     margin-left: 6px;
 }

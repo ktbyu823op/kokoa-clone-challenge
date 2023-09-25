@@ -71,7 +71,7 @@
 }
 
 .open-post__member-status {
-    color: #ffb0e0;
+    color: var(--mint);
 }
 
 .open-post__photo img {
@@ -82,6 +82,10 @@
 
 .open-post__photo {
     position: relative;
+}
+
+.open-post__photo img {
+    object-fit: cover;
 }
 
 .open-post__heart-count {
